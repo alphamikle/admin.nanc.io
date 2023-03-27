@@ -69,19 +69,19 @@
     "products": [
      {
       "title": "General health",
-      "image": "https://nanc.b-cdn.net/product_image.png",
+      "image": "https://corsproxy.io/?https://nanc.b-cdn.net/product_image.png",
       "price": "£79.99",
       "link": "https://some.product.link"
      },
      {
       "title": "Iron",
-      "image": "https://nanc.b-cdn.net/product_image.png",
+      "image": "https://corsproxy.io/?https://nanc.b-cdn.net/product_image.png",
       "price": "£59.99",
       "link": "https://some.product.link"
      },
      {
       "title": "Some test",
-      "image": "https://nanc.b-cdn.net/product_image.png",
+      "image": "https://corsproxy.io/?https://nanc.b-cdn.net/product_image.png",
       "price": "£39.99",
       "link": "https://some.product.link"
      }
@@ -94,19 +94,19 @@
     "products": [
      {
       "title": "Thyroid",
-      "image": "https://nanc.b-cdn.net/product_image.png",
+      "image": "https://corsproxy.io/?https://nanc.b-cdn.net/product_image.png",
       "price": "£39.00",
       "link": "https://some.product.link"
      },
      {
       "title": "Testosterone",
-      "image": "https://nanc.b-cdn.net/product_image.png",
+      "image": "https://corsproxy.io/?https://nanc.b-cdn.net/product_image.png",
       "price": "£49.00",
       "link": "https://some.product.link"
      },
      {
       "title": "Prohydrone",
-      "image": "https://nanc.b-cdn.net/product_image.png",
+      "image": "https://corsproxy.io/?https://nanc.b-cdn.net/product_image.png",
       "price": "£159.90",
       "link": "https://some.product.link"
      }
